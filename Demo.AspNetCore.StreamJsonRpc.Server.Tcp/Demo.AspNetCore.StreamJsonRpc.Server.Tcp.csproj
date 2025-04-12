@@ -3,7 +3,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="StreamJsonRpc" Version="2.4.48" />
+    <PackageReference Include="StreamJsonRpc" Version="2.21.69" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Demo.AspNetCore.StreamJsonRpc.Server\Demo.AspNetCore.StreamJsonRpc.Server.csproj" />
